@@ -53,9 +53,7 @@ int main(){
 	Matrix m2;
 	cout<<"Matrix is : \n";
 	m2<<m;
-	/*Matrix m3;
-	m3>>m2;
-	m3<<m2;*/
+	
 	
 	
 
